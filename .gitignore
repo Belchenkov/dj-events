@@ -1,3 +1,5 @@
 .idea
 .vscode
 debug.log
+/dj-events-backend/.env
+/dj-events-backend/node_modules
